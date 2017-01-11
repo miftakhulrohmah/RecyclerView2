@@ -1,4 +1,4 @@
-# RecyclerView1
+# RecyclerView2
 
 #Identitas 
 Nama : Miftakhul Rohmah<br>
@@ -10,5 +10,5 @@ Jurusan : RPL<br>
 Mapel : Pemrograman Perangkat Bergerak<br>
 
 #Screenshot
-![Screenshot](https://github.com/miftakhulrohmah/RecyclerView1/blob/master/mdl11%20(3).png) <br>
-![Screenshot](https://github.com/miftakhulrohmah/RecyclerView1/blob/master/mdl11%20(4).png) <br>
+![Screenshot](https://github.com/miftakhulrohmah/RecyclerView2/blob/master/mdl11%20(5).png) <br>
+![Screenshot](https://github.com/miftakhulrohmah/RecyclerView2/blob/master/mdl11%20(6).png) <br>
