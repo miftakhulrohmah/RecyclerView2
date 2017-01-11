@@ -1,4 +1,4 @@
-package id.sch.smktelkom_mlg.learn.recyclerview1;
+package id.sch.smktelkom_mlg.learn.recyclerview2;
 
 /**
  * Created by A455L on 30/10/2016.
